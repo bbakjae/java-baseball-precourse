@@ -8,6 +8,6 @@ public class Application {
         
         // TODO 구현 진행
         User user = new User();
-        user.user_Guess_Num(scanner.nextInt());
+        System.out.print("숫자를 입력해주세요 : ");        
     }
 }
