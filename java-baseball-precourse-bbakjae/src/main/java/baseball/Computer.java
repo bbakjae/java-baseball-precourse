@@ -3,9 +3,8 @@ package baseball;
 import utils.RandomUtils;
 
 public class Computer {
-	int[] random_3Num = new int[3];
-			
-	public int[] make_Random_3Num() {		
+	public int[] make_Random_3Num() {
+		int[] random_3Num = new int[3];
     	int[] has_random_3Num = {1,1,1,1,1,1,1,1,1,1,1};
     	
     	for (int i = 0; i < 3; i++) {
