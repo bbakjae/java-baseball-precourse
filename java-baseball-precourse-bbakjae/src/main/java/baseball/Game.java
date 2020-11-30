@@ -1,9 +1,5 @@
 package baseball;
 
-import java.util.Scanner;
-
-import baseball.*;
-
 public class Game {
 	
 	public boolean print_result(int[] SnB) {
