@@ -1,7 +1,5 @@
 package baseball;
 
-import java.util.Iterator;
-
 public class User {
 	
 	public int[] get_User_Guess(int guess) {
